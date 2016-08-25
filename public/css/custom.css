@@ -1,0 +1,12 @@
+/* your styles go here */
+#logo {
+	margin-top: -15px;
+}
+.icon img {
+	position: relative;;
+	left: -5px;
+	top: -2px;
+}
+#web {
+	display: none;
+}
